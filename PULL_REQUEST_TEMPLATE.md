@@ -1,10 +1,10 @@
-# Ticket
+## Ticket
 
 
-# Short description of the PR
+## Short description of the PR
 
 
-# Checklist
+## Checklist
 - [ ] I have checked the following:
   - Self-review
   - TODOs 
