@@ -31,7 +31,7 @@
 
 - Code
 
-  - [ ] The build passes
+  - [ ] TeamCity build passes (restore, format &amp; compile)
   - [ ] I have reviewed my own PR
   - [ ] I have sorted all the TODOs
     - _List here the tickets to address the remaining TODOs_
@@ -48,7 +48,7 @@
   - Unit tests
     - [ ] Added for coverage
     - [ ] I'm fixing a bug, I added a unit test
-    - [ ] Not necessary - Reason:
+    - [ ] Not necessary - Reason: _describe here_
 
 - Cybersecurity
 
@@ -57,10 +57,12 @@
     - [ ] No
     - [ ] Added - Reason: _describe here_
   - [ ] I am not using the sysadmin token when not needed
-  - [ ] No url hard coded
+  - [ ] I didn't hardcode any URLs / resource access path
 
 - SonarQube:
-  - [ ] I have addressed the issues
+  - Issues:
+    - [ ] I have addressed the issues
+    - [ ] I didn't address the issues: _describe here_
   - [ ] I have met the minimum coverage
 
 ## Related PRs
