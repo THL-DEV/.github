@@ -59,6 +59,9 @@
     - [ ] Added - Reason: _describe here_
   - [ ] I am not using the sysadmin token when not needed
   - [ ] I didn't hardcode any URLs / resource access path
+  - Libraries
+    - [ ] I introduced a new library
+    - [ ] I updated an exiting library
 
 - SonarQube:
   - Issues:
