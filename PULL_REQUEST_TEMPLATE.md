@@ -30,26 +30,35 @@
     - [ ] Connection to a new external service
 
 - Code
+
   - [ ] The build passes
   - [ ] I have reviewed my own PR
   - [ ] I have sorted all the TODOs
     - Tickets to address the remaining TODOs
   - [ ] The size is reasonable
-  - SonarQube:
-    - [ ] I have addressed the issues
-    - [ ] I have met the minimum coverage
+
+- Database
+
+  - [ ] The mongo queries generated:
+    - [ ] Are indexed
+    - [ ] Access read only collections
+
+- Tests
   - Unit tests - new test(s) required for bugs
     - [ ] Added
     - [ ] Not necessary - Reason:
   - [ ] I have tested it
-  - [ ] The mongo queries generated:
-    - [ ] Are indexed
-    - [ ] Access read only collections
+- Cybersecurity
+
   - [ ] I did not introduce any `eval` or other custom code interpretation
   - I added some binary files
     - [ ] No
-    - [ ] Added - Reason:
+    - [ ] Added - Reason: _describe here_
   - [ ] I am not using the sysadmin token when not needed
   - [ ] No url hard coded
+
+- SonarQube:
+  - [ ] I have addressed the issues
+  - [ ] I have met the minimum coverage
 
 ## Related PRs
