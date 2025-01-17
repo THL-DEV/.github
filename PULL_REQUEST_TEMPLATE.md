@@ -34,8 +34,7 @@
   - [ ] The build passes
   - [ ] I have reviewed my own PR
   - [ ] I have sorted all the TODOs
-    - Tickets to address the remaining TODOs
-  - [ ] The size is reasonable
+    - _List here the tickets to address the remaining TODOs_
 
 - Database
 
@@ -44,10 +43,13 @@
     - [ ] Access read only collections
 
 - Tests
-  - Unit tests - new test(s) required for bugs
-    - [ ] Added
-    - [ ] Not necessary - Reason:
+  
   - [ ] I have tested it
+  - Unit tests
+    - [ ] Added for coverage
+    - [ ] I'm fixing a bug, I added a unit test
+    - [ ] Not necessary - Reason:
+
 - Cybersecurity
 
   - [ ] I did not introduce any `eval` or other custom code interpretation
