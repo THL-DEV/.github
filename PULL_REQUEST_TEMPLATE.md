@@ -35,6 +35,7 @@
   - [ ] I have reviewed my own PR
   - [ ] I have sorted all the TODOs
     - _List here the tickets to address the remaining TODOs_
+  - [ ] I introduced some breaking changes: _describe here_
 
 - Database
 
