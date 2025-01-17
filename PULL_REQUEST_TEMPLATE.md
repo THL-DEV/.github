@@ -4,30 +4,30 @@
 
 ## Checklist
 
-### In the worst case scenario, the severity of the production issue would be:
+- In the worst case scenario, the severity of the production issue would be:
 
-- [ ] P1
-- [ ] P2
-- [ ] P3
+  - [ ] P1
+  - [ ] P2
+  - [ ] P3
 
-### In the worst case scenario, the damages would include
+- In the worst case scenario, the damages would include
 
-- Data
+  - Data
 
-  - [ ] Corruption
-  - [ ] Loss
-  - [ ] Overflow
-  - [ ] Leak
-  - [ ] Other: _describe here_
+    - [ ] Corruption
+    - [ ] Loss
+    - [ ] Overflow
+    - [ ] Leak
+    - [ ] Other: _describe here_
 
-- Cyber security
+  - Cyber security
 
-  - [ ] Expose unwanted data to the consumer
-    - [ ] Profiles (name, email, addresse, phone number)
-    - [ ] Documents (passports / driver licenses)
-    - [ ] Bank Info
-  - [ ] Expose new ways of accessing the service (i.e. introducing an ftp endpoint)
-  - [ ] Connection to a new external service
+    - [ ] Expose unwanted data to the consumer
+      - [ ] Profiles (name, email, addresse, phone number)
+      - [ ] Documents (passports / driver licenses)
+      - [ ] Bank Info
+    - [ ] Expose new ways of accessing the service (i.e. introducing an ftp endpoint)
+    - [ ] Connection to a new external service
 
 - Code
   - [ ] The build passes
